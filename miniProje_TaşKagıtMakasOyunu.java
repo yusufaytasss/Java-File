@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TaşKagıtMakasOyunu {
+public class miniProje_TaşKagıtMakasOyunu {
     public static void main(String[] args){
     /*Kullanıcı İşlemi */
     Scanner giris = new Scanner(System.in);
