@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class RandomSayiBulmaVeCikarmaOyunu {
+public class miniProje_RandomSayiBulmaVeCikarmaOyunu {
     public static void main(String[] args){
 
         /* RANDOM SAYI ÜRETME */
